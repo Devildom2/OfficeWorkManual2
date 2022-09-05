@@ -3,3 +3,4 @@
 ## Gmailアカウントの作成
 
 ## git clone https://github.com/Devildom2/OfficeWorkManual2.git で作成したアカウントのpush確認
+## → ssh認証キーのフォルダ削除
